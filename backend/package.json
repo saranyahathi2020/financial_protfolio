@@ -7,10 +7,11 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0",
     "mysql": "^2.18.1",
     "nodeman": "^1.1.2"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }

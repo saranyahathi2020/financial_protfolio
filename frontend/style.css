@@ -89,7 +89,7 @@ canvas {
   display: block;
 }
 .table-container {
-  max-height: 300px; /* adjust as needed */
+  max-height: 500px; /* adjust as needed */
   overflow-y: auto;  /* vertical scroll */
   overflow-x: auto;  /* horizontal scroll (if needed) */
   border: 1px solid #ccc;
